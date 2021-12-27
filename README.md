@@ -36,3 +36,9 @@ https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=fl
 https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=black-transparent
 ```
 ![my](https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=black-transparent)
+
+
+## Credits
+
+*   [repl.it](https://repl.it/)
+*   [Icons8](https://icons8.com/icons/set/star)
