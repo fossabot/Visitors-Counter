@@ -26,3 +26,8 @@ https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=nu
 https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=color-key
 ```
 ![my](https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=color-key)
+
+```
+https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=fluency-circled
+```
+![my](https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=fluency-circled)
