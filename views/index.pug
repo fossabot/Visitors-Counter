@@ -62,15 +62,14 @@ html
 
     h3 Tool
     .tool
-      code https://count.getloli.com/get/@
+      code https://visitors-counter.marioyellowbear.repl.co/@
       input#name(type='text', placeholder=':name', style='display: inline-block; width: 80px; height: 1.4em; line-height: 1.4em; margin: 0 4px; vertical-align: middle;')
       code ?theme=
       select#theme(style='display: inline-block; height: 1.6em; line-height: 1.6em; font-size: 14px; margin: 0 4px; padding: 0 4px; vertical-align: middle;')
-        option(value='moebooru') moebooru
-        option(value='moebooru-h') moebooru-h
-        option(value='rule34') rule34
-        option(value='gelbooru') gelbooru
-        option(value='gelbooru-h') gelbooru-h
+        option(value='anime') anime
+        option(value='cute') cute
+        option(value='hand-drawn') hand-drawn
+        option(value='numbers-circled') numbers-circled
       button#get(style='margin: 10px 0;', onclick='_evt_push("click", "normal", "get_counter")') Get
       img#result(style='display: block;')
 
