@@ -31,3 +31,8 @@ https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=co
 https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=fluency-circled
 ```
 ![my](https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=fluency-circled)
+
+```
+https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=black-transparent
+```
+![my](https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=black-transparent)
