@@ -20,5 +20,9 @@ https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=ha
 ```
 https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=numbers-circled
 ```
-
 ![my](https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=numbers-circled)
+
+```
+https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=color-key
+```
+![my](https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=color-key)
