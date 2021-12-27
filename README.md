@@ -37,6 +37,16 @@ https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=bl
 ```
 ![my](https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=black-transparent)
 
+## Usage
+
+### Install
+
+#### Run on Repl.it
+
+- Open the url [https://repl.it/@MarioYellowbear/Visitors-Counter](https://repl.it/@MarioYellowbear/Visitors-Counter)
+- Just hit the **Fork** button
+- And hit the **Run** button
+
 
 ## Credits
 
