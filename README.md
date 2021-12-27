@@ -1,6 +1,6 @@
 # Visitors Counter
 
-## All theme
+## Examples
 
 ```
 https://visitors-counter.marioyellowbear.repl.co/get/@mario-yellowbeard?theme=cute
